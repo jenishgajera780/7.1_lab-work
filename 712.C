@@ -1,4 +1,4 @@
-//   Q1 write a program to print the below pattern using nested for loop.
+//   Q2 write a program to print the below pattern using nested for loop.
 /*
 5
 4 5
