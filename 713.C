@@ -1,3 +1,13 @@
+//   Q3 write a program to print the below pattern using nested for loop.
+/*
+5
+4 4
+3 3 3 
+2 2 2 2 
+1 1 1 1 1
+*/
+
+
 #include<stdio.h>
 #include<conio.h>
 
